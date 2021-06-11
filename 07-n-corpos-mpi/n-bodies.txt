@@ -1,0 +1,36 @@
+0.01user 0.00system 0:00.01elapsed 94%CPU (0avgtext+0avgdata 1996maxresident)k
+0inputs+8outputs (0major+75minor)pagefaults 0swaps
+0.03user 0.00system 0:00.03elapsed 100%CPU (0avgtext+0avgdata 2000maxresident)k
+0inputs+0outputs (0major+76minor)pagefaults 0swaps
+0.06user 0.00system 0:00.06elapsed 100%CPU (0avgtext+0avgdata 2036maxresident)k
+0inputs+0outputs (0major+78minor)pagefaults 0swaps
+0.10user 0.00system 0:00.10elapsed 99%CPU (0avgtext+0avgdata 1960maxresident)k
+0inputs+0outputs (0major+77minor)pagefaults 0swaps
+0.14user 0.00system 0:00.14elapsed 100%CPU (0avgtext+0avgdata 2008maxresident)k
+0inputs+0outputs (0major+79minor)pagefaults 0swaps
+0.20user 0.00system 0:00.20elapsed 100%CPU (0avgtext+0avgdata 2040maxresident)k
+0inputs+0outputs (0major+80minor)pagefaults 0swaps
+0.26user 0.00system 0:00.26elapsed 100%CPU (0avgtext+0avgdata 1976maxresident)k
+0inputs+0outputs (0major+81minor)pagefaults 0swaps
+0.33user 0.00system 0:00.33elapsed 100%CPU (0avgtext+0avgdata 1976maxresident)k
+0inputs+0outputs (0major+81minor)pagefaults 0swaps
+0.41user 0.00system 0:00.41elapsed 100%CPU (0avgtext+0avgdata 2020maxresident)k
+0inputs+0outputs (0major+82minor)pagefaults 0swaps
+1.65user 0.00system 0:01.65elapsed 100%CPU (0avgtext+0avgdata 2116maxresident)k
+0inputs+0outputs (0major+93minor)pagefaults 0swaps
+3.71user 0.00system 0:03.71elapsed 100%CPU (0avgtext+0avgdata 2012maxresident)k
+0inputs+0outputs (0major+98minor)pagefaults 0swaps
+6.60user 0.00system 0:06.60elapsed 100%CPU (0avgtext+0avgdata 1936maxresident)k
+0inputs+0outputs (0major+109minor)pagefaults 0swaps
+10.32user 0.00system 0:10.32elapsed 99%CPU (0avgtext+0avgdata 1948maxresident)k
+0inputs+8outputs (0major+117minor)pagefaults 0swaps
+14.90user 0.00system 0:14.90elapsed 100%CPU (0avgtext+0avgdata 2000maxresident)k
+0inputs+0outputs (0major+126minor)pagefaults 0swaps
+20.29user 0.00system 0:20.29elapsed 100%CPU (0avgtext+0avgdata 2100maxresident)k
+0inputs+8outputs (0major+137minor)pagefaults 0swaps
+26.53user 0.00system 0:26.53elapsed 99%CPU (0avgtext+0avgdata 2004maxresident)k
+0inputs+8outputs (0major+144minor)pagefaults 0swaps
+33.63user 0.00system 0:33.63elapsed 100%CPU (0avgtext+0avgdata 2000maxresident)k
+0inputs+8outputs (0major+153minor)pagefaults 0swaps
+41.57user 0.00system 0:41.57elapsed 100%CPU (0avgtext+0avgdata 2048maxresident)k
+0inputs+8outputs (0major+164minor)pagefaults 0swaps

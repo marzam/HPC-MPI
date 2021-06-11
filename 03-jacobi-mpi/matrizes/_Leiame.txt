@@ -1,0 +1,15 @@
+Leia-me
+Chamada do programa por linha de comando - Exemplo:
+
+c:\xpto> CUDA_Jacobi_release.exe 256 M256.txt V256.txt 16
+				  |	|	|	|-> Quantidade de blocos - máximo de 512.				
+				  |     |       |---------> Nome do arquivo do vetor B.
+				  | 	|-----------------> Nome do arquivo da matriz A.
+                                  |-----------------------> Tamanho da matriz, quadrada, e do vetor B e X.
+
+
+Estrutura do arquivo performance.txt
+                     ===============
+
+Quantidade de elementos da matriz, tempo de transferencia dos dados + performance da GPU, performance da CPU, quantidade de blocos.
+as colunas são separadas apenas por espaços em branco.

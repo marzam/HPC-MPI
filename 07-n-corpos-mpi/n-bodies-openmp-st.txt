@@ -1,0 +1,36 @@
+0.26user 0.00system 0:00.04elapsed 604%CPU (0avgtext+0avgdata 2412maxresident)k
+0inputs+8outputs (0major+105minor)pagefaults 0swaps
+0.20user 0.00system 0:00.03elapsed 606%CPU (0avgtext+0avgdata 2452maxresident)k
+0inputs+0outputs (0major+106minor)pagefaults 0swaps
+0.29user 0.00system 0:00.04elapsed 600%CPU (0avgtext+0avgdata 2304maxresident)k
+0inputs+0outputs (0major+105minor)pagefaults 0swaps
+0.40user 0.00system 0:00.06elapsed 589%CPU (0avgtext+0avgdata 2420maxresident)k
+0inputs+0outputs (0major+107minor)pagefaults 0swaps
+0.86user 0.00system 0:00.14elapsed 598%CPU (0avgtext+0avgdata 2344maxresident)k
+0inputs+0outputs (0major+105minor)pagefaults 0swaps
+0.69user 0.00system 0:00.11elapsed 600%CPU (0avgtext+0avgdata 2468maxresident)k
+0inputs+0outputs (0major+108minor)pagefaults 0swaps
+0.53user 0.00system 0:00.09elapsed 598%CPU (0avgtext+0avgdata 2348maxresident)k
+0inputs+0outputs (0major+106minor)pagefaults 0swaps
+0.56user 0.00system 0:00.09elapsed 595%CPU (0avgtext+0avgdata 2372maxresident)k
+0inputs+0outputs (0major+109minor)pagefaults 0swaps
+0.76user 0.00system 0:00.12elapsed 597%CPU (0avgtext+0avgdata 2356maxresident)k
+0inputs+0outputs (0major+108minor)pagefaults 0swaps
+2.06user 0.00system 0:00.34elapsed 599%CPU (0avgtext+0avgdata 2412maxresident)k
+0inputs+0outputs (0major+119minor)pagefaults 0swaps
+4.31user 0.00system 0:00.71elapsed 599%CPU (0avgtext+0avgdata 2508maxresident)k
+0inputs+0outputs (0major+129minor)pagefaults 0swaps
+7.38user 0.00system 0:01.23elapsed 599%CPU (0avgtext+0avgdata 2480maxresident)k
+0inputs+0outputs (0major+136minor)pagefaults 0swaps
+11.26user 0.00system 0:01.88elapsed 599%CPU (0avgtext+0avgdata 2564maxresident)k
+0inputs+0outputs (0major+145minor)pagefaults 0swaps
+16.18user 0.00system 0:02.69elapsed 599%CPU (0avgtext+0avgdata 2592maxresident)k
+0inputs+8outputs (0major+154minor)pagefaults 0swaps
+21.87user 0.00system 0:03.64elapsed 599%CPU (0avgtext+0avgdata 2516maxresident)k
+0inputs+0outputs (0major+161minor)pagefaults 0swaps
+28.53user 0.00system 0:04.75elapsed 599%CPU (0avgtext+0avgdata 2548maxresident)k
+0inputs+8outputs (0major+169minor)pagefaults 0swaps
+36.06user 0.00system 0:06.01elapsed 599%CPU (0avgtext+0avgdata 2688maxresident)k
+0inputs+8outputs (0major+179minor)pagefaults 0swaps
+44.52user 0.00system 0:07.42elapsed 599%CPU (0avgtext+0avgdata 2788maxresident)k
+0inputs+8outputs (0major+190minor)pagefaults 0swaps
