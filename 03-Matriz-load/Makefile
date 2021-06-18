@@ -10,9 +10,13 @@ LIBS     =
 LINK     =  $(LIBDIR) $(LIBS)
 CPU_COMPILE = $(CPUCC) $(DEFS) $(INCLUDES) $(CPPFLAGS)
 
+all: matrix-mpi-01 file-mpi
 
-all:
+file-mpi:
 	$(CPU_COMPILE) 03-File.cpp $(LINK) -o file-mpi
 
+matrix-mpi-01:
+	$(CPU_COMPILE) 03-Matrix.cpp $(LINK) -o matrix-mpi-01
+
 clean:
-	rm hello
+	rm file-mpi matrix-mpi-01 *.txt
